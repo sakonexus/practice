@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://sako:donotenter@cluster0.b3iei.gcp.mongodb.net/test?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://sako:donotenter@cluster0.b3iei.gcp.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken"
 }
